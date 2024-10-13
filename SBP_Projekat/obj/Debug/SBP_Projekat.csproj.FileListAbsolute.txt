@@ -1,0 +1,420 @@
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\SBP_Projekat\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\SBP_Projekat\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\SBP_Projekat\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\SBP_Projekat\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\SBP_Projekat\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\SBP_Projekat\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\SBP_Projekat\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.cache
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CopyComplete
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Honey Tweety\Downloads\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\SBP\SBP_Projekat (2)\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.cache
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CopyComplete
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Honey Tweety\Downloads\Novo\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\MetroFramework.Design.dll
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\MetroFramework.dll
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.cache
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CopyComplete
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PreglediIzmenaRegionalniCentar.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PregledIizmenaObjekat.resources
+C:\Users\Honey Tweety\Downloads\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csprojAssemblyReference.cache
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PregledIizmenaObjekat.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PreglediIzmenaRegionalniCentar.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.cache
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CopyComplete
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Kaja\Desktop\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PregledIizmenaObjekat.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PreglediIzmenaRegionalniCentar.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\SBP\BazeForme\PoslednjaVerzijaDTOS\SBP - 2 Faza - OBEZBEDJENJE\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PregledIizmenaObjekat.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PreglediIzmenaRegionalniCentar.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.cache
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CopyComplete
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Honey Tweety\Desktop\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PregledIizmenaObjekat.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PreglediIzmenaRegionalniCentar.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\SBP\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csprojAssemblyReference.cache
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PregledIizmenaObjekat.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PreglediIzmenaRegionalniCentar.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.cache
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CopyComplete
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Kaja\Desktop\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache
+C:\Users\Svetlana\Desktop\SBP\Novo\Najnovije\Najnovije\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziVozilaCentra.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.csprojAssemblyReference.cache
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziVozilaCentra.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.cache
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.CopyComplete
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziVozilaCentra.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\SBP\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache
+C:\Users\Kaja\Desktop\ZnaciKraaaaj\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziAlarme.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Svetlana\Desktop\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziAlarme.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziVozilaCentra.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache
+C:\Users\Svetlana\Desktop\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PovezivanjeRegCenSaMenadzerom.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\NHibernate.dll
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\bin\Debug\NHibernate.xml
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PovezivanjeRegCenSaMenadzerom.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziAlarme.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziVozilaCentra.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+C:\Users\Svetlana\Desktop\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\SBP_Projekat.exe.config
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.exe
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.pdb
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\SBP_Projekat.exe
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\SBP_Projekat.pdb
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\FluentNHibernate.dll
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\Iesi.Collections.dll
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\NHibernate.dll
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\FluentNHibernate.pdb
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\FluentNHibernate.xml
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\Iesi.Collections.xml
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\bin\Debug\NHibernate.xml
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.csprojResolveAssemblyReference.cache
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Form1.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajAlarm.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajFizickoObez.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajMenadzera.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajObjekat.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajRegionalniCentar.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajTehnickoLice.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.DodajVoziloURegCentar.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.GlavnaForma.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PovezivanjeRegCenSaMenadzerom.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziAlarme.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.PrikaziVozilaCentra.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Forme.VidiEkipu.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.Properties.Resources.resources
+D:\FAKS\III godina\Moje\SBP\Treca faza\SBP_Projekat\obj\Debug\SBP_Projekat.csproj.GenerateResource.Cache

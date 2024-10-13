@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2031E584-9854-4863-AA3C-9728AE413AA0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SBP_Projekat</RootNamespace>
+    <AssemblyName>SBP_Projekat</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\Desktop\Prototip1\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\Desktop\Prototip1\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\Desktop\Prototip1\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.0.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.12.2.1100\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="DataProvider.cs" />
+    <Compile Include="DTOManager.cs" />
+    <Compile Include="DTOs\AlarmView.cs" />
+    <Compile Include="DTOs\BorilackaVestinaView.cs" />
+    <Compile Include="DTOs\BrojTelefonaView.cs" />
+    <Compile Include="DTOs\DuziView.cs" />
+    <Compile Include="DTOs\EkipaView.cs" />
+    <Compile Include="DTOs\GradCentarView.cs" />
+    <Compile Include="DTOs\GradMenadzerView.cs" />
+    <Compile Include="DTOs\InstaliranView.cs" />
+    <Compile Include="DTOs\IntervencijaView.cs" />
+    <Compile Include="DTOs\JeZaduzenView.cs" />
+    <Compile Include="DTOs\KontaktTelefonView.cs" />
+    <Compile Include="DTOs\ObjekatView.cs" />
+    <Compile Include="DTOs\OblastTehnikeView.cs" />
+    <Compile Include="DTOs\RegionalniCentarView.cs" />
+    <Compile Include="DTOs\SmenaView.cs" />
+    <Compile Include="DTOs\StrucnaSpremaView.cs" />
+    <Compile Include="DTOs\VoziloView.cs" />
+    <Compile Include="DTOs\ZaduzenZaView.cs" />
+    <Compile Include="DTOs\ZaposleniView.cs" />
+    <Compile Include="Entiteti\Alarm.cs" />
+    <Compile Include="Entiteti\BorilackaVestina.cs" />
+    <Compile Include="Entiteti\BrojTelefona.cs" />
+    <Compile Include="Entiteti\Duzi.cs" />
+    <Compile Include="Entiteti\Ekipa.cs" />
+    <Compile Include="Entiteti\GradCentar.cs" />
+    <Compile Include="Entiteti\GradMenadzer.cs" />
+    <Compile Include="Entiteti\Instaliran.cs" />
+    <Compile Include="Entiteti\JeZaduzen.cs" />
+    <Compile Include="Entiteti\JeZaduzena.cs" />
+    <Compile Include="Entiteti\KontaktTelefon.cs" />
+    <Compile Include="Entiteti\Obidjen.cs" />
+    <Compile Include="Entiteti\Objekat.cs" />
+    <Compile Include="Entiteti\OblastTehnike.cs" />
+    <Compile Include="Entiteti\Radi.cs" />
+    <Compile Include="Entiteti\RegionalniCentar.cs" />
+    <Compile Include="Entiteti\Smena.cs" />
+    <Compile Include="Entiteti\StrucnaSprema.cs" />
+    <Compile Include="Entiteti\Vozilo.cs" />
+    <Compile Include="Entiteti\VrsiIntervenciju.cs" />
+    <Compile Include="Entiteti\ZaduzenZa.cs" />
+    <Compile Include="Entiteti\Zaposleni.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajAlarm.Designer.cs">
+      <DependentUpon>DodajAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajFizickoObez.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajFizickoObez.Designer.cs">
+      <DependentUpon>DodajFizickoObez.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajMenadzera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajMenadzera.Designer.cs">
+      <DependentUpon>DodajMenadzera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajObjekat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajObjekat.Designer.cs">
+      <DependentUpon>DodajObjekat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajRegionalniCentar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajRegionalniCentar.Designer.cs">
+      <DependentUpon>DodajRegionalniCentar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajTehnickoLice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajTehnickoLice.Designer.cs">
+      <DependentUpon>DodajTehnickoLice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\DodajVoziloURegCentar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\DodajVoziloURegCentar.Designer.cs">
+      <DependentUpon>DodajVoziloURegCentar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\GlavnaForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\GlavnaForma.Designer.cs">
+      <DependentUpon>GlavnaForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\PovezivanjeRegCenSaMenadzerom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\PovezivanjeRegCenSaMenadzerom.designer.cs">
+      <DependentUpon>PovezivanjeRegCenSaMenadzerom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\PrikaziAlarme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\PrikaziAlarme.designer.cs">
+      <DependentUpon>PrikaziAlarme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\PrikaziVozilaCentra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\PrikaziVozilaCentra.Designer.cs">
+      <DependentUpon>PrikaziVozilaCentra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forme\VidiEkipu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forme\VidiEkipu.designer.cs">
+      <DependentUpon>VidiEkipu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\AlarmMapiranje.cs" />
+    <Compile Include="Mapiranja\BorilackaVestinaMapiranje.cs" />
+    <Compile Include="Mapiranja\BrojTelefonaMapiranje.cs" />
+    <Compile Include="Mapiranja\DuziMapiranje.cs" />
+    <Compile Include="Mapiranja\EkipaMapiranje.cs" />
+    <Compile Include="Mapiranja\GradCentarMapiranje.cs" />
+    <Compile Include="Mapiranja\GradMenadzerMapiranje.cs" />
+    <Compile Include="Mapiranja\InstaliranMapiranje.cs" />
+    <Compile Include="Mapiranja\JeZaduzenaMapiranje.cs" />
+    <Compile Include="Mapiranja\JeZaduzenMapiranje.cs" />
+    <Compile Include="Mapiranja\KontaktTelefonMapiranje.cs" />
+    <Compile Include="Mapiranja\ObidjenMapiranje.cs" />
+    <Compile Include="Mapiranja\ObjekatMapiranje.cs" />
+    <Compile Include="Mapiranja\OblastTehnikeMapiranje.cs" />
+    <Compile Include="Mapiranja\RadiMapiranje.cs" />
+    <Compile Include="Mapiranja\RegionalniCentarMapiranje.cs" />
+    <Compile Include="Mapiranja\SmenaMapiranje.cs" />
+    <Compile Include="Mapiranja\StrucnaSpremaMapiranje.cs" />
+    <Compile Include="Mapiranja\VoziloMapiranje.cs" />
+    <Compile Include="Mapiranja\VrsiIntervencijuMapiranje.cs" />
+    <Compile Include="Mapiranja\ZaduzenZaMapiranje.cs" />
+    <Compile Include="Mapiranja\ZaposleniMapiranje.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringValue.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajAlarm.resx">
+      <DependentUpon>DodajAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajFizickoObez.resx">
+      <DependentUpon>DodajFizickoObez.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajMenadzera.resx">
+      <DependentUpon>DodajMenadzera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajObjekat.resx">
+      <DependentUpon>DodajObjekat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajRegionalniCentar.resx">
+      <DependentUpon>DodajRegionalniCentar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajTehnickoLice.resx">
+      <DependentUpon>DodajTehnickoLice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\DodajVoziloURegCentar.resx">
+      <DependentUpon>DodajVoziloURegCentar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\GlavnaForma.resx">
+      <DependentUpon>GlavnaForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\PovezivanjeRegCenSaMenadzerom.resx">
+      <DependentUpon>PovezivanjeRegCenSaMenadzerom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\PrikaziAlarme.resx">
+      <DependentUpon>PrikaziAlarme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\PrikaziVozilaCentra.resx">
+      <DependentUpon>PrikaziVozilaCentra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forme\VidiEkipu.resx">
+      <DependentUpon>VidiEkipu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
